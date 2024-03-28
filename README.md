@@ -1,4 +1,5 @@
-# Task1-IRIS
+# IRIS Flower
+
 Making a machine learning model to extract details about IRIS flower & I have made a model for the machine to learn by itself from the measurements of the IRIS flower and then classify them accordingly. 
 
 #loading the required file on the colab server
